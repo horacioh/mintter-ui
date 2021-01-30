@@ -17,7 +17,7 @@ export const { styled, css } = createStyled({
       $corpSecondary: 'hsl(43,100,53,1)',
       $corpTerciary: 'hsl(328,83,48,1)',
       $feedbackRed: 'hsl(355,69,51,1)',
-      $feedbackGreen: 'hsl(96,93,30,1)'
+      $feedbackGreen: 'hsl(96,93,30,1)',
       $feedbackYellow: 'hsl(37,83,52,1)',
       $hoverMention: 'hsl(229,100,50,0.12)',
       $hoverTransclusion: 'hsl(43,100,53,0.15)',
@@ -33,7 +33,7 @@ export const { styled, css } = createStyled({
       $1: '12px',
       $2: '14px',
       $3: '16px',
-      $4: '20px'
+      $4: '20px',
       $5: '24px',
       $6: '32px',
     },
